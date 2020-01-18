@@ -1,7 +1,7 @@
 <template>
-  <div id="app">
+  <v-app>
 
-  </div>
+  </v-app>
 </template>
 
 <script>
@@ -10,9 +10,6 @@ export default {
 
   components: {
 
-  }
-}
+  },
+};
 </script>
-<style>
-
-</style>
