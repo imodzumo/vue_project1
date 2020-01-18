@@ -1,24 +1,5 @@
-# vue-project
+# Vue.js Tutorials
 
-## Project setup
-```
-npm install
-```
+Этот репозиторий создан специально для публикации примеров из YouTube серии "Vue.js с нуля" - https://www.youtube.com/watch?v=k3yRfEw1pYk&list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Для удобства каждый пример вынесен в отдельную ветку данного репозитория.
